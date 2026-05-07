@@ -2,5 +2,5 @@
 habibGM
 import code
 ```
-git clone 
+git clone https://github.com/GMhabib/hack-whm-cpanel.git
 ```
